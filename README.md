@@ -20,13 +20,13 @@
 
 #### **3.ArduPilot（专业直升机飞控）**
 
-- **GitHub固件仓库：**https://github.com/ArduPilot/ardupilot
+- **GitHub固件仓库**：https://github.com/ArduPilot/ardupilot
 - **官方维基**：https://ardupilot.org
-- **开发者文档：**https://dev.ardupilot.org
+- **开发者文档**：https://dev.ardupilot.org
 
 #### **4.dRonin**
 
 - **GitHub 固件仓库**：https://github.com/dRoninFlight/dRonin
 
-- **项目维基：**https://github.com/d-ronin/dRonin/wiki
+- **项目维基**：https://github.com/d-ronin/dRonin/wiki
 
